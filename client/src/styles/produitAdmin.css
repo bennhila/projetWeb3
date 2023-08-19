@@ -1,0 +1,21 @@
+.produitCard{
+    margin-top: 30PX;
+    display: flex;
+    margin-left: 35PX;
+    flex-wrap: wrap;
+}
+.card{
+    /* display: flex; */
+    margin-left: 20PX;
+    margin-top: 10PX;
+
+
+/*  */
+}
+.btn{
+    display: flex;
+    margin-left: 9%;
+}
+.btnDelete{
+    margin-left: 5%;
+}
